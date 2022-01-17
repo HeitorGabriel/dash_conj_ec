@@ -3,14 +3,14 @@
 Em construção: 1/8.
 Cronograma de construção do conteúdo:
 
-   - Visão Geral \ \ \ \ \ \ \ \ \ \ \ \ \ \[--]
-   - Inflação: Consumidor \ \ \ \ \ \ [1v]
-   - Inflação: Produtor \ \ \ \ \ \ \ [--]
-   - Produção \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ [--]
-   - Emprego \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ [--]
-   - Política Fiscal \ \ \ \ \ \ \ \ \ [--]
-   - Política Monetária \ \ \ \ \ \ [--] 
-   - Internacional \ \ \ \ \ \ \ \ \ \ \ [--]
+   - [ ] Visão Geral
+   - [x] Inflação: Consumidor [1v]
+   - [ ] Inflação: Produtor 
+   - [ ] Produção 
+   - [ ] Emprego
+   - [ ] Política Fiscal 
+   - [ ] Política Monetária 
+   - [ ] Internacional
 
 Neste Repositório:
  
