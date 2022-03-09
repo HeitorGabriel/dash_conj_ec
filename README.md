@@ -1,4 +1,4 @@
-# Dashboard da Conjuntura Econômica 1/8.
+# Dashboard da Conjuntura Econômica 2/10.
 
 Em construção: 2/10.
 Cronograma de construção do conteúdo:
