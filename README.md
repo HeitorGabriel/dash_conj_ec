@@ -1,16 +1,19 @@
 # Dashboard da Conjuntura Econômica 1/8.
 
-Em construção: 1/8.
+Em construção: 2/10.
 Cronograma de construção do conteúdo:
 
    - [ ] Visão Geral
-   - [x] Inflação: Consumidor [1v]
-   - [ ] Inflação: Produtor 
-   - [ ] Produção 
+   - [ ] Internacional
    - [ ] Emprego
+   - [ ] Produção: Agro
+   - [ ] Produção: Ind
+   - [ ] Produção: Srv 
+   - [x] Inflação: Consumidor [1v]
+   - [x] Inflação: Produtor   [1v] 
    - [ ] Política Fiscal 
    - [ ] Política Monetária 
-   - [ ] Internacional
+   
 
 Neste Repositório:
  
