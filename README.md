@@ -1,11 +1,11 @@
-# Dashboard da Conjuntura Econômica 2/10.
+# Dashboard da Conjuntura Econômica 3/10.
 
-Em construção: 2/10.
+Em construção: 3/10.
 Cronograma de construção do conteúdo:
 
    - [ ] Visão Geral
    - [ ] Internacional
-   - [ ] Emprego
+   - [x] Emprego              [1v]
    - [ ] Produção: Agro
    - [ ] Produção: Ind
    - [ ] Produção: Srv 
